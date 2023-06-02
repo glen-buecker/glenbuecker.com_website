@@ -7,6 +7,7 @@ import AboutMe from "./Partials/AboutMe.vue";
 import TransferableSkills from "./Partials/TransferableSkills.vue";
 import Portfolio from "./Partials/Portfolio.vue";
 import Projects from "./Partials/Projects.vue";
+import Footer from "./Partials/Footer.vue";
 </script>
 
 <template>
@@ -32,7 +33,7 @@ import Projects from "./Partials/Projects.vue";
         <TransferableSkills />
         <Portfolio />
         <Projects />
-       
+        <Footer />
 
        
     </Layout>
