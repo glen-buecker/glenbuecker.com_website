@@ -11,7 +11,7 @@
                     <div>
                         <h2 class="text-3xl font-bold mb-20 text-center text-gray-100">Portfolio</h2>
                     </div>
-                    <div class="grid sm:gap-10 lg:gap-16 lg:grid-cols-3">
+                    <div class="grid gap-y-16 lg:gap-16 lg:grid-cols-3">
 
                         <!--glenbuecker.com-->
                         <div class="lg:mb-0">

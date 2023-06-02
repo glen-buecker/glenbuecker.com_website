@@ -13,9 +13,9 @@
                         <p class="text-xl text-gray-400 mb-28">My background in education provides me a transferable skill
                             set to web and application development.</p>
                     </div>
-                    <div class="grid xs:gap-16 sm:gap-16 lg:gap-16 lg:grid-cols-3">
+                    <div class="grid gap-y-16 lg:gap-16 lg:grid-cols-3">
                         <!--Communication-->
-                        <div class="sm:mb-10 lg:mb-0">
+
                             <div class="rounded-lg shadow-lg h-full block bg-white">
                                 <div class="flex justify-center">
                                     <div class="p-4 bg-blue-600 rounded-full shadow-lg inline-block -mt-8">
@@ -33,7 +33,7 @@
                                     </p>
                                 </div>
                             </div>
-                        </div>
+
                         <!--Problem-Solving-->
                         <div class="rounded-lg shadow-lg h-full block bg-white">
                             <div class="flex justify-center">

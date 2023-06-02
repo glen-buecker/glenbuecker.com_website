@@ -5,7 +5,7 @@
 <template>
     <!-- ======= Technologies Section ======= -->
     <section id="Technologies" class="container mx-auto px-4 text-gray-600 body-font" >
-        <div class="container px-5 py-24 mx-auto ">
+        <div class="container px-5 py-12 mx-auto ">
             <h1 class="text-3xl font-bold mb-8 text-center">Technologies</h1>
 
           <div class="flex flex-wrap -m-4">
