@@ -191,7 +191,7 @@
                     </p>
                 </div>
             </div>
-        </
+        </li>
     </ol>
 </section>
 </template>
