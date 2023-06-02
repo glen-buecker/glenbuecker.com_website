@@ -28,7 +28,7 @@
                                         The git repository for this website.
                                     </p>
                                     <p class="text-md pt-4"><a
-                                        href="https://github.com/glen-buecker/glenbuecker.com">View on
+                                        href="https://github.com/glen-buecker/glenbuecker.com_website">View on
                                         GitHub</a></p>
                                 </div>
                             </div>
