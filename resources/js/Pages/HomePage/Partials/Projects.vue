@@ -156,6 +156,42 @@
                 </div>
             </div>
         </li>
+        <!--Fifth item-->
+        <li>
+            <div class="flex-start md:flex">
+                <div
+                    class="-ml-[13px] flex h-[25px] w-[25px] items-center justify-center rounded-full bg-info-100 text-info-700">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 24 24"
+                        fill="currentColor"
+                        class="h-4 w-4">
+                        <path
+                            fill-rule="evenodd"
+                            d="M6.75 2.25A.75.75 0 017.5 3v1.5h9V3A.75.75 0 0118 3v1.5h.75a3 3 0 013 3v11.25a3 3 0 01-3 3H5.25a3 3 0 01-3-3V7.5a3 3 0 013-3H6V3a.75.75 0 01.75-.75zm13.5 9a1.5 1.5 0 00-1.5-1.5H5.25a1.5 1.5 0 00-1.5 1.5v7.5a1.5 1.5 0 001.5 1.5h13.5a1.5 1.5 0 001.5-1.5v-7.5z"
+                            clip-rule="evenodd" />
+                    </svg>
+                </div>
+                <div
+                    class="mb-10 ml-6 block max-w-md rounded-lg bg-neutral-50 p-6 shadow-md shadow-black/5 dark:bg-neutral-700 dark:shadow-black/10">
+                    <div class="mb-4 flex justify-between">
+                        <a
+                            href="#!"
+                            class="text-sm text-info transition duration-150 ease-in-out hover:text-info-600 focus:text-info-600 active:text-info-700"
+                        >Technology Specialist, OU School of Music</a
+                        >
+                        <a
+                            href="#!"
+                            class="text-sm text-info transition duration-150 ease-in-out hover:text-info-600 focus:text-info-600 active:text-info-700"
+                        >2011-2017</a
+                        >
+                    </div>
+                    <p class="mb-6 text-neutral-700 dark:text-neutral-200">
+                        Developed an online student application system to streamline the admission process for new music students. The application had four sections: student application, recommendation entry, faculty review/comments/rating, and administration (accept/deny, scholarship tracking, etc.)
+                    </p>
+                </div>
+            </div>
+        </li>
     </ol>
 </section>
 </template>
