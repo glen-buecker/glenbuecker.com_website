@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <section class="container mx-auto grid place-items-center">
+    <section id="past" class="container mx-auto grid place-items-center">
     <h3
         class="mb-16 mt-16 text-2xl text-center text-neutral-700 dark:text-neutral-300">
         Past Projects
@@ -41,7 +41,7 @@
                         >
                     </div>
                     <p class="mb-6 text-neutral-700 dark:text-neutral-200">
-                        Researched, coded, updated, and maintained an e-commerce website for Tulsa Band Music Store. 
+                        Researched, coded, updated, and maintained an e-commerce website for Tulsa Band Music Store.
                     </p>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                         >
                     </div>
                     <p class="mb-6 text-neutral-700 dark:text-neutral-200">
-                        Created numerous faculty and studio websites for the University of Oklahoma School of Music. 
+                        Created numerous faculty and studio websites for the University of Oklahoma School of Music.
                     </p>
                 </div>
             </div>
@@ -115,7 +115,7 @@
                         >
                     </div>
                     <p class="mb-6 text-neutral-700 dark:text-neutral-200">
-                        Rewrite of school's main website. Transitioned from a static DreamWeaver site to a dynamic, PHP driven site using CodeIgniter and Expression Engine CMS. 
+                        Rewrite of school's main website. Transitioned from a static DreamWeaver site to a dynamic, PHP driven site using CodeIgniter and Expression Engine CMS.
                     </p>
                 </div>
             </div>
@@ -151,7 +151,7 @@
                         >
                     </div>
                     <p class="mb-6 text-neutral-700 dark:text-neutral-200">
-                        Developed an online audition scoring system for the University of Oklahoma Band. Began work on student application system for the School of Music using Laravel and MySQL. 
+                        Developed an online audition scoring system for the University of Oklahoma Band. Began work on student application system for the School of Music using Laravel and MySQL.
                     </p>
                 </div>
             </div>

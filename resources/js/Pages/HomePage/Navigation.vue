@@ -15,7 +15,8 @@
                     <li><a class="hover:text-gray-200 scrollto active" href="#hero">Home</a></li>
                     <li><a class="hover:text-gray-200 scrollto" href="#about">About Me</a></li>
                     <li><a class="hover:text-gray-200 scrollto" href="#transferable-skills">Transferable Skills</a></li>
-                    <li><a class="nhover:text-gray-200 scrollto " href="#portfolio">Portfolio</a></li>
+                    <li><a class="nhover:text-gray-200 scrollto" href="#portfolio">Portfolio</a></li>
+                    <li><a class="nhover:text-gray-200 scrollto" href="#past">Past Projects</a></li>
                 </ul>
 
             </div>
